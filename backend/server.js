@@ -10,6 +10,11 @@ const mongoose = require('mongoose');
 //app.use(cors());
 app.use(express.json());
 
+app.get('/', function(request, response){
+  // response.sendFile('dist/index.html', { root: __dirname });
+  response.sendFile(__dirname + '/dist/index.html');
+});
+
 const uri = process.env.ATLAS_URI;
 mongoose
   .connect(uri, {
