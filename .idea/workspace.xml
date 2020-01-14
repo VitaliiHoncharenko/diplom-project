@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="252352c2-242d-4df4-87c5-71ac4ca14716" name="Default Changelist" comment="- added components&#10;- connect api">
+    <list default="true" id="ea11391a-bdc0-4409-962a-161b8e1acfb9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/routes/users.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend/routes/users.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend/server.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,37 +18,11 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/App.js" root0="SKIP_INSPECTION" />
   </component>
-  <component name="IgnoredFileRootStore">
-    <option name="generatedRoots">
-      <set>
-        <option value="$PROJECT_DIR$/.idea" />
-      </set>
-    </option>
-  </component>
-  <component name="ProjectId" id="1W1H0Y4aHti5bZ3hySxVy22Kysg" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
-    <option name="showLibraryContents" value="true" />
-  </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="node.js.detected.package.eslint" value="true" />
-    <property name="node.js.detected.package.tslint" value="true" />
-    <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
-    <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.JavaScript" />
-    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
-  </component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/components/StartPage" />
-    </key>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -66,81 +40,12 @@
     <configuration />
   </component>
   <component name="TaskManager">
-    <task active="true" id="Default" summary="Default task">
-      <changelist id="252352c2-242d-4df4-87c5-71ac4ca14716" name="Default Changelist" comment="" />
-      <created>1578309957436</created>
-      <option name="number" value="Default" />
-      <option name="presentableId" value="Default" />
-      <updated>1578309957436</updated>
-      <workItem from="1578309959586" duration="1337000" />
-      <workItem from="1578312458118" duration="4000" />
-      <workItem from="1578312464921" duration="2771000" />
-      <workItem from="1578332323702" duration="2475000" />
-      <workItem from="1578335051905" duration="67000" />
-      <workItem from="1578335133446" duration="28000" />
-      <workItem from="1578335176220" duration="7838000" />
-      <workItem from="1578756956759" duration="1000" />
-      <workItem from="1578757179549" duration="88000" />
-      <workItem from="1578757299068" duration="18000" />
-      <workItem from="1578757325316" duration="9818000" />
-      <workItem from="1578833759694" duration="7310000" />
-    </task>
-    <task id="LOCAL-00001" summary="- added components&#10;- connect api">
-      <created>1578771447644</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1578771447644</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
-    <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="- added components&#10;- connect api" />
-    <option name="LAST_COMMIT_MESSAGE" value="- added components&#10;- connect api" />
-  </component>
   <component name="WindowStateProjectService">
-    <state x="528" y="233" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1578757312598">
+    <state x="629" y="421" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1579036569447">
       <screen x="0" y="23" width="1680" height="947" />
     </state>
-    <state x="528" y="233" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.1680.947@0.23.1680.947" timestamp="1578757312598" />
-    <state x="430" y="101" key="CommitChangelistDialog2" timestamp="1579033205463">
-      <screen x="0" y="23" width="1680" height="947" />
-    </state>
-    <state x="430" y="101" key="CommitChangelistDialog2/0.23.1680.947@0.23.1680.947" timestamp="1579033205463" />
-    <state x="655" y="214" key="RollbackChangesDialog" timestamp="1579033193144">
-      <screen x="0" y="23" width="1680" height="947" />
-    </state>
-    <state x="655" y="214" key="RollbackChangesDialog/0.23.1680.947@0.23.1680.947" timestamp="1579033193144" />
-    <state x="494" y="138" key="SettingsEditor" timestamp="1578765890735">
-      <screen x="0" y="23" width="1680" height="947" />
-    </state>
-    <state x="494" y="138" key="SettingsEditor/0.23.1680.947@0.23.1680.947" timestamp="1578765890735" />
-    <state x="440" y="238" key="Vcs.Push.Dialog.v2" timestamp="1578771455479">
-      <screen x="0" y="23" width="1680" height="947" />
-    </state>
-    <state x="440" y="238" key="Vcs.Push.Dialog.v2/0.23.1680.947@0.23.1680.947" timestamp="1578771455479" />
-    <state x="570" y="418" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1578761894462">
-      <screen x="0" y="23" width="1680" height="947" />
-    </state>
-    <state x="570" y="418" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.23.1680.947@0.23.1680.947" timestamp="1578761894462" />
+    <state x="629" y="421" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1680.947@0.23.1680.947" timestamp="1579036569447" />
   </component>
 </project>
